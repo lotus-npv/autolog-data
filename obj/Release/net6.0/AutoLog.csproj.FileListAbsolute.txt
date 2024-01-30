@@ -1,0 +1,13 @@
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\bin\Release\net6.0\AutoLog.deps.json
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\bin\Release\net6.0\AutoLog.dll
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\bin\Release\net6.0\AutoLog.pdb
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\AutoLog.csproj.AssemblyReference.cache
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\AutoLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\AutoLog.AssemblyInfoInputs.cache
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\AutoLog.AssemblyInfo.cs
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\AutoLog.csproj.CoreCompileInputs.cache
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\AutoLog.sourcelink.json
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\AutoLog.dll
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\refint\AutoLog.dll
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\AutoLog.pdb
+C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\obj\Release\net6.0\ref\AutoLog.dll

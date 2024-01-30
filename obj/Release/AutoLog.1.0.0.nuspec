@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AutoLog</id>
+    <version>1.0.0</version>
+    <authors>ITomo</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="5d77082b8c114f07d707c1786153fb6e17d6ef54" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.23.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="Quartz" version="3.8.0" exclude="Build,Analyzers" />
+        <dependency id="Quartz.Extensions.Hosting" version="3.8.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.AspNetCore" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Enrichers.ClientInfo" version="2.0.3" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Enrichers.CorrelationId" version="3.0.1" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Enrichers.Environment" version="2.3.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Enrichers.Process" version="2.0.2" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Enrichers.Thread" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Filters.Expressions" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Formatting.Compact" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Settings.Configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.Seq" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.Telegram" version="0.2.1" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\phamn\OneDrive\Code\NET\LIBRARY\AutoLog\bin\Release\net6.0\AutoLog.dll" target="lib\net6.0\AutoLog.dll" />
+  </files>
+</package>
